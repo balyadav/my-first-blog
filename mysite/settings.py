@@ -25,7 +25,7 @@ SECRET_KEY = '+x7@li@h!w4tocy-bqdtv#*lh!8vwic$35)_2!-5(*^lc!&l5p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['balyadav.pythonanywhere.com']
+ALLOWED_HOSTS = ['balyadav.pythonanywhere.com', '127.0.0.1', 'localhost']
 
 
 # Application definition
